@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/honganh29122002/NOde_Js/issues"
   },
-  "homepage": "https://github.com/honganh29122002/NOde_Js#readme"
+  "homepage": "https://github.com/honganh29122002/NOde_Js#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
 }
